@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"				"Food NPC"
+	"version"			"0.0.1"
+	"up_date"			"2015"
+	"author_name"		"[W-G]Hydrogen"
+	"author_email"		""
+	"author_url"		"www.werwolfgaming.enjin.com"
+}

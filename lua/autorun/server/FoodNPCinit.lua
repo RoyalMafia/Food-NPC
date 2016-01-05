@@ -1,0 +1,5 @@
+ print("*----------------------*")
+ print("*-------FoodNPC--------*")
+ print("*Made by [W-G] Hydrogen*")
+ print("*-----Initialising-----*")
+ print("*----------------------*")
